@@ -1,0 +1,13 @@
+
+.adjust{
+  padding: 4rem;
+  background-image: url("nab.JPG");
+}
+
+.para1{
+  color: antiquewhite;
+}
+
+.input{
+  display: flex;
+}

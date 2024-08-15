@@ -1,0 +1,12 @@
+
+.back{
+  background-image: url("nab.JPG");
+  color: white;
+  font-weight: 700;
+  margin: 0%;
+}
+
+.textColor{
+  display: flex;
+  text-decoration: none;
+}
