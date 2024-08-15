@@ -1,0 +1,35 @@
+
+
+.heading{
+   color: white;
+}
+
+.para{
+  color: #686f7a;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: 600;
+}
+
+.innerpara{
+  display: inline;
+  color: blueviolet;
+}
+
+.para1{
+  color:#ffee2e;
+  font-size: 0.83rem;
+  margin-left: 2rem;
+}
+.back{
+  background-image: url("nab.JPG");
+  padding: 5rem;
+}
+
+
+@media screen and (width < 1023){
+  .page{
+    width:  1rem;
+  }
+
+
+}
